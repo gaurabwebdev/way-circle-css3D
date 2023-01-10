@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #e63fbdaa;
+    background: #6e30f7ab;
 }
 
 /* Wave CSS */
@@ -25,7 +25,7 @@ body{
 .loader span{
     position: absolute;
     display: block;
-    border: 5px solid #dcdcdc;
+    border: 5px solid rgb(237, 33, 33);
     box-shadow: 0 5px 0 #45404057, inset 0 5px 0  #45404057;
     box-sizing: border-box;
     border-radius: 50%;
